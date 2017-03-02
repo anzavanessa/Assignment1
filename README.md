@@ -1,8 +1,8 @@
 Hello Octocat
 -------------
 
-I love Octocat. She’s the coolest cat in town
-\[Octocat\](<https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/assignments/octocat.png>
+I love Octocat. She's the coolest cat in town
+![Octocat](https://dl.dropboxusercontent.com/u/11805474/painblogr/biostats/assignments/octocat.png)
 
     data("anscombe")
     dim.data.frame(anscombe)
